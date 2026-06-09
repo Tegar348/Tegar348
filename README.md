@@ -1,3 +1,3 @@
 ## I'm Tegar 👋
-[![Tegar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tegar348)](https://github.com/Tegar348/github-readme-stats)
+[![Top Langs](https://github-readme-stats-alpha-cyan-45.vercel.app/api/top-langs/?username=Tegar348&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
