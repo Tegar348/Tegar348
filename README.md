@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Tegar348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tegar348" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Tegar Bagus Satria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tegar Bagus Satria" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Tegar Bagus Satria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tegar-bagus-satria-44a456311" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
